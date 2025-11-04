@@ -3,9 +3,6 @@
 🌱 Learning Journey:
 I'm currently diving into web development — building up my skills in HTML and CSS, and just starting to explore JavaScript. Every day is a new lesson!
 
-🐧 Linux & Cybersecurity Enthusiast:
-I have a keen interest in the world of Linux and cybersecurity, especially penetration testing. I love tinkering, exploring tools, and learning how things work under the hood.
-
 🎯 Next Goals:
 
     Get comfortable with JavaScript
