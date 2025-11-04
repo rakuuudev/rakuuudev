@@ -7,7 +7,6 @@ I'm currently diving into web development — building up my skills in HTML and 
 
     Get comfortable with JavaScript
     Build my first web projects
-    Start experimenting with Linux tools and cybersec labs
     Document my learning along the way
 
 💡 About Me:
