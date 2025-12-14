@@ -1,27 +1,35 @@
 # Hi, I'm Rafli 👋
 
 ## 🚀 About Me
-Junior Developer | Linux Enthusiast |
+I am an entry-level Linux and infrastructure learner with hands-on experience
+in setting up Ubuntu Server, web servers (Apache/Nginx), SSH access,
+and basic networking in a virtualized lab environment.
 
-Passionate about automation, infrastructure, and building scalable systems.
+Currently focusing on building solid fundamentals for
+Technician Support / Junior Sysadmin roles.
 
-## 🛠️ Tech Stack
+### Technology
+- Linux server (Ubuntu Server)
+- SSH & remote access
+- Web server: Apache & Nginx
+- Basic networking (IP, subnetting, services)
+- Virtualization (QEMU / virt-manager)
+- CLI tools & troubleshooting
 
-### Infrastructure 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+## Featured Projects
+- porto-rafli — Linux server & infrastructure lab documentation  
+  Hands-on documentation covering server setup, web server configuration,
+  and verification steps.
 
-### Automation
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+### Technical Experience
+- Performed Windows 10 reinstallation and basic troubleshooting
+  on multiple laptops (user support scenario)
 
-### Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+- Disassembled laptop hardware for storage upgrade
+  (HDD to SSD) including OS reinstallation
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Upgraded personal laptop components:
+  RAM installation and storage replacement
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- Basic understanding of laptop internal components
+  (RAM, storage, connectors)
